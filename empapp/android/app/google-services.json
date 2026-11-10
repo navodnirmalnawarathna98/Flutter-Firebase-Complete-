@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "99823623799",
+    "firebase_url": "https://empappflutternova-default-rtdb.firebaseio.com",
+    "project_id": "empappflutternova",
+    "storage_bucket": "empappflutternova.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99823623799:android:62a3e84257560817f8b072",
+        "android_client_info": {
+          "package_name": "com.example.empapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUVsEDwJFKWQ9W4KUoEwHctzZ35JJYM-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
